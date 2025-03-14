@@ -53,7 +53,7 @@
         ]
     },
     "dependencies": {
-        "@babel/core": "^7.20.7",
+        "@babel/core": "^7.26.10",
         "@babel/plugin-proposal-decorators": "^7.20.7",
         "@babel/plugin-transform-runtime": "^7.19.6",
         "@babel/preset-env": "^7.20.2",
@@ -83,7 +83,7 @@
         "@sentry/browser": "^7.28.1",
         "@sentry/tracing": "^7.28.1",
         "@squoosh/cli": "^0.7.3",
-        "@trivago/prettier-plugin-sort-imports": "^4.0.0",
+        "@trivago/prettier-plugin-sort-imports": "^4.1.0",
         "@types/chart.js": "^2.9.37",
         "@types/codemirror": "5.60.6",
         "@types/grecaptcha": "^3.0.4",
@@ -104,7 +104,7 @@
         "eslint-plugin-lit": "^1.7.2",
         "fuse.js": "^6.6.2",
         "lit": "^2.5.0",
-        "mermaid": "^9.3.0",
+        "mermaid": "^11.5.0",
         "moment": "^2.29.4",
         "prettier": "^2.8.1",
         "pyright": "^1.1.286",
